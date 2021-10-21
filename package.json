@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo list Mateusz Krasik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mautesz Krasik",
+  "license": "ISC",
+  "dependencies": {
+    "@mdi/font": "^6.2.95",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0"
+  }
+}

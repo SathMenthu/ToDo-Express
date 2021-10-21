@@ -1,0 +1,11 @@
+.btn-success {
+    margin-right: 3%;
+}
+
+.toast {
+    left: 50%;
+    bottom: 10%;
+    position: fixed;
+    transform: translate(-50%, 0px);
+    z-index: 9999;
+}
